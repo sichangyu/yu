@@ -19,7 +19,7 @@ const MyStack = () => {
             options={{ title: 'Go back to Home' }}/>
         <Stack.Screen name="Vacc" component={VaccineDemo}
         options={{ title: 'Go back to Home' }}/>
-
+   
 
       </Stack.Navigator>
     </NavigationContainer>
